@@ -1,6 +1,6 @@
 # todoey
 
-A new Flutter project.
+Flutter Todo App with Authorization and database with Firebase.
 
 ## Getting Started
 
